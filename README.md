@@ -7,3 +7,4 @@ Snake is a game in which a snake needs to explore an environment and catch the f
 
 ## 🕹️ Play the game
 
+https://ghifariazhrr.github.io/Snake-game/
